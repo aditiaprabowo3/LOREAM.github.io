@@ -257,7 +257,7 @@ ul li a{
     }
     .navbar .dark{
         margin-top: 0;
-        margin-left: 0;
+        margin-left: 10px;
     }
     .navbar button{
         display: none;
@@ -301,6 +301,7 @@ ul li a{
     }
     .navbar .dark{
         margin-top: 0;
+        margin-left: 20px;
     }
     .navbar button{
         display: none;
